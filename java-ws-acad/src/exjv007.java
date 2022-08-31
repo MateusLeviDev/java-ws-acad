@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -12,7 +11,7 @@ public class exjv007 {
 		int minutos = sc.nextInt();
 		double conta = 50.0;
 		if (minutos > 100) {
-			conta += (minutos - 50) * 2.0;
+			conta += (minutos - 100) * 2.0;
 		}
 		
 		System.out.printf("Valor da conta = R$ %.2f%n", conta);
@@ -21,27 +20,3 @@ public class exjv007 {
 	}
 
 }
-=======
-import java.util.Locale;
-import java.util.Scanner;
-
-public class exjv007 {
-
-	public static void main(String[] args) {
-		
-		Locale.setDefault(Locale.US);
-		Scanner sc = new Scanner(System.in);
-		
-		int minutos = sc.nextInt();
-		double conta = 50.0;
-		if (minutos > 100) {
-			conta += (minutos - 50) * 2.0;
-		}
-		
-		System.out.printf("Valor da conta = R$ %.2f%n", conta);
-		
-		sc.close();
-	}
-
-}
->>>>>>> branch 'main' of https://github.com/MateusLeviDev/java-ws-acad.git
