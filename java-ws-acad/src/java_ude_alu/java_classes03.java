@@ -20,7 +20,8 @@ public class java_classes03 {
 			discount = 0;
 		}
 		System.out.println(discount);
-
+		
+		sc.close();
 	}
 
 }
