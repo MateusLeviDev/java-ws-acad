@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class exjv007 {
+public class exemplojava07 {
 
 	public static void main(String[] args) {
 		
