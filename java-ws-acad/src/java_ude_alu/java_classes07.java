@@ -1,3 +1,6 @@
+/* 
+ * Conceitos em binário. Ps: crindo uma mascara || operadores bitwise 
+ * */
 package java_ude_alu;
 
 public class java_classes07 {
