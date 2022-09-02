@@ -2,7 +2,7 @@ package java_ude_alu;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class javaclasses06 {
+public class java_classes06 {
 
 	public static void main(String[] args) {
 		
