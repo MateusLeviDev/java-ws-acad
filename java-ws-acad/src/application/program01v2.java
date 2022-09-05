@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 import entities.triangle;
 
-public class program01_v2 {
+public class program01v2 {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);
