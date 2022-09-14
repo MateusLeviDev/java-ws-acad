@@ -20,7 +20,7 @@ public class program14 {
 
 	    for (int i=0; i<n; i++) {
 	    	System.out.print("Digite um numero: ");
-	        vetor[i] = sc.nextDouble();
+	        vetor[i] = sc.nextDouble(); 
 	    }
 
 		soma = 0;
